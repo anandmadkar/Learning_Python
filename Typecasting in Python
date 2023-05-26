@@ -1,0 +1,12 @@
+#  It is used for converting one data type into another data type of variables.
+
+#  String to integer
+#  Integer to String
+#  Integer to Float , etc.
+
+a = input("Enter Name of Student", )       #This is a input Function
+a = int(a)                                 # Here at this line we are doing typecasting string into integer
+print(type(a))
+print(a)
+
+#  Note =  In Input Function whatever is the variable will be displayed as string always. 
