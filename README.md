@@ -1,2 +1,2 @@
 # Learning_Python
-From Basic Fundamentals to Advance.
+From Basic to Advance.
